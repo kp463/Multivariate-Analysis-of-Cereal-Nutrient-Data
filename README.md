@@ -21,5 +21,4 @@ install.packages(c("library1_name","library2_name",......))
 
 ├── cereal.csv           # Input dataset for analysis  
 ├── code.R              # Complete R script containing the analysis and modeling  
-├── Report.pdf          # Detailed project report  
-└── Presentation.pdf    # Brief project presentation slides 
+└── Report.pdf          # Detailed project report  
